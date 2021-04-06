@@ -1,6 +1,5 @@
 #I'm 8 years old
-import console
-import random as random
+import random
 import time
 console.alert('How to play' , "To play you need to go into console and type play('choice') and replace choice with one of [rock, paper, scissors, gun, sand, pizza or shredder]" , 'Play')
 def timer(t):
